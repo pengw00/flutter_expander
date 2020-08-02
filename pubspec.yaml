@@ -1,9 +1,9 @@
 name: flutterexpander
 description: A new Flutter package for fold and unfold list of widget
-version: 0.0.1
+version: 0.0.2
 #author: water685@hotmail.com <water685@hotmail.com>
 homepage: https://www.gyhert.com
-repository:
+repository: https://github.com/pengw00/flutter_expander.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
